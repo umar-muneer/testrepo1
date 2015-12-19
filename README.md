@@ -95,4 +95,8 @@ making changes man a lot of them
 making changes
 made changes
 MAKING A CHANGE IN TEST2 BRANCH
+<<<<<<< ed1f126df1c7ff154faabaa3f49660949f3de418
 i am making a change in test2
+=======
+hello world master
+>>>>>>> master change
