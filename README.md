@@ -83,21 +83,3 @@ added 426th change in the test1 branch
 added 427th change
 added 428th change
 ---end test----
-new test: added another change to the test1 branch
-new test: added another change to the test1 branch
-NEW TEST: MAKING A CHANGE
-making a change in the master branch
-NEW TEST: UMAR MUNEER IS MAKING A CHANGE
-another change made
-another change made
-making changes man a lot of them
-
-making changes
-made changes
-MAKING A CHANGE IN TEST2 BRANCH
-<<<<<<< ed1f126df1c7ff154faabaa3f49660949f3de418
-i am making a change in test2
-=======
-hello world master
->>>>>>> master change
-i am here at line 103
