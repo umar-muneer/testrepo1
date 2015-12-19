@@ -83,4 +83,10 @@ added 426th change in the test1 branch
 added 427th change
 added 428th change
 ---end test----
-added a commit to the master branch
+added a commit to the master branch---end test----
+new test: added another change to the test1 branch
+new test: added another change to the test1 branch
+NEW TEST: MAKING A CHANGE
+NEW TEST: UMAR MUNEER IS MAKING A CHANGE
+another change made
+another change made
