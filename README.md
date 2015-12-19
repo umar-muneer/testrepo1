@@ -83,24 +83,10 @@ added 426th change in the test1 branch
 added 427th change
 added 428th change
 ---end test----
-<<<<<<< HEAD
-added a commit to the master branch---end test----
 new test: added another change to the test1 branch
 new test: added another change to the test1 branch
 NEW TEST: MAKING A CHANGE
 NEW TEST: UMAR MUNEER IS MAKING A CHANGE
 another change made
 another change made
-
-making changes
-=======
-added a commit to the master branch
-raaziah's commit
-another raaziah's commit
-one more commit
-so boring
-more commits
-commits so far
-comittingggg
-yoyoyoyoyoyo
->>>>>>> e77a4c795d6d23ba781a9a9c1256926fe48e55f7
+making changes man a lot of them
