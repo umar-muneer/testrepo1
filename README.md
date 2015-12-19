@@ -100,3 +100,5 @@ i am making a change in test2
 =======
 hello world master
 >>>>>>> master change
+
+doing some thing here
